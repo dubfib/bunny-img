@@ -1,0 +1,15 @@
+{
+  "name": "bunny-img",
+  "version": "3.0.2",
+  "description": "Get kewl bunny images and gifs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bunny",
+    "bunny-img"
+  ],
+  "author": "dubfib",
+  "license": "Apache-2.0"
+}
