@@ -12,10 +12,12 @@
     <a href="https://nodei.co/npm/bunny-img/"><img src="https://nodei.co/npm/bunny-img.png?downloads=true&stars=true" alt="Oops... why didn't this load?" /></a>
   </p>
 
-  ## ❔ Questions/FAQ  
+  ## ❔ Questions/FAQ
   Whats bunny-img? bunny-img is a npm package which allows you to get images, gifs, videos of animals.
 
-  Github? https://github.com/dubfib/bunny-img
+  Github? https://github.com/dubfib/bunny-img  
+
+  I need help! Go to https://github.com/dubfib/bunny-img/pulls and submit a pull request, you can ask for new features or get help on the package.
 
   What service are you using? We are using plenty of apis.
 

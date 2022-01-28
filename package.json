@@ -1,6 +1,6 @@
 {
   "name": "bunny-img",
-  "version": "4.0.1",
+  "version": "4.0.3",
   "description": "Get animal pictures, gifs, and videos.",
   "main": "index.js",
   "scripts": {
