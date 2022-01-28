@@ -17,7 +17,7 @@
 
   Github? https://github.com/dubfib/bunny-img  
 
-  I need help! Go to https://github.com/dubfib/bunny-img/pulls and submit a pull request, you can ask for new features or get help on the package.
+  Need Help or Report an Issue? Go to https://github.com/dubfib/bunny-img/issues and submit a pull request, you can ask for new features or get help on the package.
 
   What service are you using? We are using plenty of apis.
 
