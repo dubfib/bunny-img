@@ -13,7 +13,7 @@
   </p>
 
   ## ❔ Questions/FAQ  
-  Whats bunny-img? bunny-img is a npm package which allows you to get images, gifs, videos of animals. SUSS
+  Whats bunny-img? bunny-img is a npm package which allows you to get images, gifs, videos of animals.
 
   Github? https://github.com/dubfib/bunny-img
 
