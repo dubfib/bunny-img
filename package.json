@@ -1,7 +1,7 @@
 {
   "name": "bunny-img",
-  "version": "3.0.2",
-  "description": "Get kewl bunny images and gifs.",
+  "version": "4.0.1",
+  "description": "Get animal pictures, gifs, and videos.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,8 @@
     "bunny-img"
   ],
   "author": "dubfib",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "node-fetch": "^2.6.4"
+  }
 }

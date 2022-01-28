@@ -13,58 +13,92 @@
   </p>
 
   ## ❔ Questions/FAQ
-  Whats bunny-img? bunny-img is a npm package which allows you to get images, gifs, videos of bunnys.
+  Whats bunny-img? bunny-img is a npm package which allows you to get images, gifs, videos of animals.
 
-  Source? Source code might be added in the future.
+  Github? https://github.com/dubfib/bunny-img
 
-  What service are you using? We are using https://bunnies.media/.
+  What service are you using? We are using plenty of apis.
 
   License? This package is using Apache-2.0.
 
   ## 📗 Usage
-  Here is the new usage for the package, if you liked the old usage from version 2.0.7 then scroll down because the package still supports that. Although the new usage is more easy to use in my opinion.
+This is how to use the package, scroll down to see all of them or use the find function in your browser and write the animal.
 
-  ```js
-  //Requiring the package, you can use import or require.
-  const { bunny } = require("bunny-img") //Maybe try to do ES6?
+# 📕 Image
+```js
+//Importing everything from bunny-img module.
+const { bunny, dog, cat, fox, bird, lizard, koala, duck, kangaroo, raccoon } = require('bunny-img');
 
-  import bunny from "bunny-img"; //Looks like you know how to do both ways.
+//Creating an async function so then we can run the images.
+//If you already have an async in a event you should be fine.
 
-  //Getting some bunny media.
-  bunny(); //Wait holdup there, you need to add a type this can be img, gif or video.
+async function data() {
+    //Calling the bunny function.
+    await bunny('img');
 
-  bunny("img") //Ah, thats much better, you can also do it in other ways, about you show us?
+    //Calling the dog function.
+    await dog('img');
 
-  bunny("gif"); //Nice, thats one of them.
+    //Calling the cat function.
+    await cat('img');
 
-  bunny("video"); //Good, you got all of them, img, gif and video! Now try to use it in some code.
+    //Calling the fox function.
+    await fox('img');
 
-  //Getting the bunny media in the console.
-  console.log(); //Cough, cough, you should put something in the console.log().
+    //Calling the bird function.
+    await bird('img');
 
-  console.log(bunny("img")); //Theres thats much better now do all of them.
+    //Calling hte lizard function.
+    await lizard('img');
 
-  console.log(bunny("gif")) //Okay, theres one more to do.
+    //Calling the koala function.
+    await koala('img');
 
-  console.log(bunny("video")); //Wow, your good at this. You should learn how to use the package by now, if you don't understand start back from the top.
-  ```
+    //Calling the duck function.
+    await duck('img');
 
-  ## 📕 Old Usage
-  Heres the old usage for old school people of the package.
+    //Calling the kangaroo function.
+    await kangaroo('img');
 
-  ```js
-  //requiring the npm package
-  const bunny = require('bunny-img');
+    //Calling the raccoon function.
+    await raccoon('img');
+};
 
-  //console logging the function
+//Calling the async function so it runs
+data();
+```
 
-  //picture
-  console.log(bunny.getBunnyIMG());
+# 📘 Gif
+```js
+//Important bunny from bunny-img
+const { bunny } = require('bunny-img');
 
-  //gif
-  console.log(bunny.getBunnyGIF());
+//Creating an async function so then we can run the gifs.
+//If you already have an async in a event you should be fine.
 
-  //video
-  console.log(bunny.getBunnyVIDEO());
-  ```
-</div>
+async function data() {
+  //Calling the bunny function.
+  await bunny('gif');
+};
+
+//Calling the async function so it runs
+data();
+```
+
+# 📙 Video
+```js
+//Important bunny from bunny-img
+const { bunny } = require('bunny-img');
+
+//Creating an async function so then we can run the video.
+//If you already have an async in a event you should be fine.
+
+async function data() {
+  //Calling the bunny function.
+  //The video comes in the .webm format.
+  await bunny('video');
+};
+
+//Calling the async function so it runs
+data();
+```
