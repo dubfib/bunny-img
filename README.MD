@@ -12,8 +12,8 @@
     <a href="https://nodei.co/npm/bunny-img/"><img src="https://nodei.co/npm/bunny-img.png?downloads=true&stars=true" alt="Oops... why didn't this load?" /></a>
   </p>
 
-  ## ❔ Questions/FAQ
-  Whats bunny-img? bunny-img is a npm package which allows you to get images, gifs, videos of animals.
+  ## ❔ Questions/FAQ  
+  Whats bunny-img? bunny-img is a npm package which allows you to get images, gifs, videos of animals. SUSS
 
   Github? https://github.com/dubfib/bunny-img
 
