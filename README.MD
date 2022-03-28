@@ -29,9 +29,6 @@ npm install bunny-img --save
 This package depends on Promises (async, await) you must use it in your code in order to use this package
 Note: In order to fetch images you MUST use the Images constructor
 ```
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise   
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function   
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await  
 
 ## Images
 ```
@@ -55,4 +52,12 @@ Property in Images Constructor ~ Fetches fox picture
 ```
 ```js
 new Images().fox();
+```
+
+## Dog
+```
+Property in Images Constructor ~ Fetches dog picture
+```
+```js
+new Images.dog();
 ```
