@@ -3,11 +3,11 @@
   
   <p align="center">
       <a href="https://www.npmjs.com/package/bunny-img">
-    <img src="https://img.shields.io/npm/dt/bunny-img?style=for-the-badge" alt="npm" />
-  </a>
-
-  <a href="https://www.npmjs.com/package/bunny-img">
     <img src="https://img.shields.io/npm/v/bunny-img?style=for-the-badge" alt="npm" />
+  </a>
+    
+      <a href="https://www.npmjs.com/package/bunny-img">
+    <img src="https://img.shields.io/npm/dt/bunny-img?style=for-the-badge" alt="npm" />
   </a>
     
   <a href="https://www.npmjs.com/package/bunny-img">
