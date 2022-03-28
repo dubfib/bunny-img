@@ -43,4 +43,4 @@ new Images();
 Property in Images Constructor ~ Fetchs a bunny picture
 ```
 ```js
-<Images>.bunny();
+new Images().bunny();
