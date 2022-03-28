@@ -61,3 +61,11 @@ Property in Images Constructor ~ Fetches dog picture
 ```js
 new Images.dog();
 ```
+
+## Cat
+```
+Property in Images Constructor ~ Fetches cat picture
+```
+```js
+new Images.cat();
+```
