@@ -35,6 +35,12 @@ Note: In order to fetch images you MUST use the Images constructor
 Constructor ~ Allows you to fetch Images
 ```
 ```js
-const { Images } = require('bunny-img');
-const fetch = new Images()
+new Images();
 ```
+
+## Bunny
+```
+Property in Images Constructor ~ Fetchs a bunny picture
+```
+```js
+<Images>.bunny();
