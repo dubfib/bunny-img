@@ -12,7 +12,7 @@
   </a>
     
   <a href="https://www.npmjs.com/package/bunny-img">
-    <img src="https://img.shields.io/badge/License-Apache%202.0-informational?style=for-the-badge" alt="npm" />
+    <img src="https://img.shields.io/badge/License-Apache%202.0-9cf?style=for-the-badge" alt="npm" />
   </a>
     
   </p>
