@@ -59,7 +59,7 @@ new Images().fox();
 Property in Images Constructor ~ Fetches dog picture
 ```
 ```js
-new Images.dog();
+new Images().dog;
 ```
 
 ## Cat
@@ -67,7 +67,7 @@ new Images.dog();
 Property in Images Constructor ~ Fetches cat picture
 ```
 ```js
-new Images.cat();
+new Images().cat;
 ```
 
 ## Bird
@@ -75,7 +75,7 @@ new Images.cat();
 Property in Images Constructor ~ Fetches bird picture
 ```
 ```js
-new Images.bird();
+new Images().bird;
 ```
 
 ## Lizard
@@ -83,5 +83,45 @@ new Images.bird();
 Property in Images Constructor ~ Fetches lizard picture
 ```
 ```js
-new Images.lizard();
+new Images().lizard;
+```
+
+## Koala
+```
+Property in Images Constructor ~ Fetches koala picture
+```
+```js
+new Images().koala;
+```
+
+## Duck
+```
+Property in Images constructor ~ Fetches duck picture
+```
+```js
+new Images().duck;
+```
+
+## Kangaroo
+```
+Property in Images Constructor ~ Fetches kangaroo picture
+```
+```js
+new Images().kangaroo;
+```
+
+## Raccoon
+```
+Property in Images Constructor ~ Fetches raccoon picture
+```
+```js
+new Image().raccoon;
+```
+
+## Panda
+```
+Property in Images Constructor ~ Fetches panda picture
+```
+```js
+new Images().panda;
 ```
