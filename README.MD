@@ -40,7 +40,16 @@ new Images();
 
 ## Bunny
 ```
-Property in Images Constructor ~ Fetchs a bunny picture
+Property in Images Constructor ~ Fetches a bunny picture
 ```
 ```js
 new Images().bunny();
+```
+
+## Fox
+```
+Property in Images Constructor ~ Fetches fox picture
+```
+```js
+new Images().fox();
+```
