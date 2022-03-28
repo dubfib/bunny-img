@@ -69,3 +69,19 @@ Property in Images Constructor ~ Fetches cat picture
 ```js
 new Images.cat();
 ```
+
+## Bird
+```
+Property in Images Constructor ~ Fetches bird picture
+```
+```js
+new Images.bird();
+```
+
+## Lizard
+```
+Property in Images Constructor ~ Fetches lizard picture
+```
+```js
+new Images.lizard();
+```
